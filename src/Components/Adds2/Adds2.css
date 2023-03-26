@@ -1,0 +1,38 @@
+.Add2bg{
+    background: linear-gradient(180deg, #FBD268 0%, #F1BA29 100%);
+}
+
+@media (min-width:1000px){
+    .Add2img{
+        margin-left: 50px;
+    }
+}
+@media (max-width:940px){
+    .Add2img{
+        width: 300px;
+    }
+
+    .h1-Adds2{
+        font-size: 1.5rem;
+    }
+}
+
+@media (max-width:710px) {
+    .h1-Adds2{
+        font-size: 1.3rem;
+    }
+    
+}
+
+@media (max-width:510px) {
+    .h1-Adds2{
+        font-size: 0.9rem;
+    }
+    .p-Adds2{
+        font-size: small;
+    }
+}
+
+.Adds2Text{
+    text-align: center;
+}

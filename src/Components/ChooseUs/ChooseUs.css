@@ -1,0 +1,29 @@
+.ChooseUsbg{
+    background-color: #E5E4E9;
+}
+
+@media (max-width:1600px){
+    .ChooseUsImg{
+        width: 300px;
+        height: 270px;
+    }
+}
+@media (max-width:540px){
+    .ChooseUsImg{
+        width: 200px;
+        height: 250px;
+    }
+    .h1-ChooseUsText{
+        font-size: 1.5rem;
+    }
+}
+
+.h1-ChooseUsText{
+    color:  #E8625D;
+}
+
+.p-ChooseUsText{
+    font-weight: 1rem;
+    color: #025B5D;
+}
+

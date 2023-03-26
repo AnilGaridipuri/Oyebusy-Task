@@ -1,0 +1,16 @@
+.h1-Trending{
+    color: #025B5D;
+    text-align: center;    
+}
+
+.Trendingimg{
+    margin-top: -23%;
+}
+
+.trendingText{
+    margin-bottom: 80px;
+}
+
+.css-1ttgalp-MuiGrid-root>.MuiGrid-item{
+    padding-bottom: 40px!important;
+}

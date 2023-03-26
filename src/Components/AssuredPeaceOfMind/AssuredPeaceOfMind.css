@@ -1,0 +1,30 @@
+.AssuredPeaceOfMind{
+    display: flex;
+}
+
+.AssuredPeaceOfMind_text{
+    text-align: start;
+    padding-left: 5px;
+}
+
+.p-AssuredPeaceOfMind{
+    color: #757575;
+    margin-top: -20px;
+}
+
+
+
+.Icon{
+    font-size: 5rem!important;
+    color: #025B5D!important;
+}
+
+
+@media (max-width:700px) {
+    .p-AssuredPeaceOfMind{
+        font-size: 1rem;
+    }
+    .h1-AssuredPeaseText{
+        font-size: 1.8rem;
+    }
+}

@@ -1,0 +1,103 @@
+.Header{
+    text-align: center;
+    background-image: url("./../../../public/Ac-Service.jpeg");
+    background-position: 100%;
+    background-repeat: no-repeat;
+    background-size: 100% 100%; 
+    height: 600px;
+}
+
+.Header1{
+    background-image: url('./../../../public/header1.png');
+    background-position: 100%;
+    background-repeat: no-repeat;
+    background-size: 100% 100%; 
+    height: 200px;  
+    margin-top: -27px;
+    margin-left: 8px;
+}
+.Header2{
+    background-image: url('./../../../public/header2.png');
+    background-position: 100%;
+    background-repeat: no-repeat;
+    background-size: 100% 100%; 
+    height: 200px;  
+    margin-top: -27px;
+    margin-left: 10px;
+}
+
+@media (max-width: 600px) {
+    .Header1{
+        background-image: url('./../../../public/header1.png');
+        background-position: 100%;
+        background-repeat: no-repeat;
+        background-size: 100% 100%; 
+        height: 120px;  
+        margin-top: -27px;
+    }
+    .Header2{
+        background-image: url('./../../../public/header2.png');
+        background-position: 100%;
+        background-repeat: no-repeat;
+        background-size: 100% 100%; 
+        height: 120px;  
+        margin-top: -27px;
+    }
+    
+}
+
+@media (max-width: 670px){
+    .Header{
+        display: none;
+    }
+    .image{
+        padding-left: 50%;
+    }
+}
+
+.Searchbar{
+    padding-left: 14%;
+    text-align: start;
+}
+
+.Headertext{
+    color: #fff;
+    font-size: 22px;
+}
+
+.Exampletext{
+    color: #fff;
+    font-size: 13px;
+    margin-left: -20px;
+    margin-top: -0.1px;
+}
+
+
+
+/*  Top image grid */
+.css-1nv1o5k-MuiGrid-root{
+    padding-bottom: 30px;
+    padding-left: 25px;
+}
+
+.headerimgs{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.p-heater{
+    text-align: center;
+}
+
+.h1-header{
+    text-align: center;
+}
+
+.css-zow5z4-MuiGrid-root.MuiGrid-item{
+    padding-top: 0!important;
+}
+
+.css-1nv1o5k-MuiGrid-root {
+    padding-left: 10px!important;
+}
